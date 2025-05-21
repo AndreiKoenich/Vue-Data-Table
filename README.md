@@ -40,4 +40,4 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 4. **Acesse a aplicação**
 
-    Abra o navegador e acesse [http://localhost:3000] para visualizar a aplicação.
+    Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
