@@ -15,7 +15,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
     Clone este repositório para sua máquina local:
 
-        git clone <URL_DO_REPOSITORIO>
+        git clone https://github.com/AndreiKoenich/Vue-Data-Table
         cd vue-data-table
 
 2. **Instale as dependências**  
